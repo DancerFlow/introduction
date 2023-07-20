@@ -1,34 +1,35 @@
 # Dancer Flow
 
-<div>
-<img src="./images/logo.png">
-
+<div align="center">
+<img src="./images/logo.png" width="600px">
+<p align="center">
 MZ세대를 타겟으로 <b>짧은 쇼츠 영상</b>을 <b>AI 이미지 처리</b>를 통해</br>
  <b>K-POP 안무를 배우고</b> 게임/경쟁하는 웹 서비스 입니다.</br>
  자이로 센서를 도입한 <b>기존 서비스와는 다르게, AI 기능을 활용</b>하여 </br><b>pose estimation 기능</b>을 이용한 <b>AI 기반 댄스 챌린지 서비스</b>입니다.
+</p>
 </div>
 
 ## 🤹 **Dancer Flow 멤버**
 
 <table>
   <tr>
-    <td align="center"><img src="/introduction/images/members/1.jpg/" width="100px" alt="나연"/><br /><sub><b>안나연</b></sub><br />
+    <td align="center"><img src="./images/members/1.png" width="100px" alt="나연"/><br /><sub><b>안나연</b></sub><br />
     <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/AI-63BA71?style=flat-square&logoColor=white"/>
     </td>
-    <td align="center"><img src="/introduction/images/members/2.jpg" width="100px" alt="상준"/><br /><sub><b>이상준</b></sub><br />
+    <td align="center"><img src="./images/members/2.png" width="100px" alt="상준"/><br /><sub><b>이상준</b></sub><br />
     <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/AI-63BA71?style=flat-square&logoColor=white"/>
     </td>
-    <td align="center"><img src="/introduction/images/members/3.jpg" width="100px" alt="호열"/><br /><sub><b>최호열</b></sub><br />
+    <td align="center"><img src="./images/members/3.jpg" width="100px" alt="호열"/><br /><sub><b>최호열</b></sub><br />
     <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
      <img src="https://img.shields.io/badge/AI-63BA71?style=flat-square&logoColor=white"/>
     </td>
-    <td align="center"><img src="/introduction/images/members/4.jpg" width="100px" alt="혜정"/><br /><sub><b>조혜정</b></sub><br />
+    <td align="center"><img src="./images/members/4.jpg" width="100px" alt="혜정"/><br /><sub><b>조혜정</b></sub><br />
     <img src="https://img.shields.io/badge/BackEnd-EA5E5E?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/AI-63BA71?style=flat-square&logoColor=white"/>
     </td>
-    <td align="center"><img src="/introduction/images/members/5.jpg" width="100px" alt="기석"/><br /><sub><b>이기석</b></sub><br />
+    <td align="center"><img src="./images/members/5.jpg" width="100px" alt="기석"/><br /><sub><b>이기석</b></sub><br />
     <img src="https://img.shields.io/badge/BackEnd-EA5E5E?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/AI-63BA71?style=flat-square&logoColor=white"/>
     </td>
