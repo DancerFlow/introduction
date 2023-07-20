@@ -67,6 +67,7 @@ MZ세대를 타겟으로 <b>짧은 쇼츠 영상</b>을 <b>AI 이미지 처리</
 <a href="https://drive.google.com/file/d/1L867LAbKjUt-0pVEmC9I3hGoqc3Fi_nL/view?usp=sharing">
 시연연상
 </a>
+
 ### 메인 기능
 <img src="https://github.com/GitHub-SJL/carrotmarket/assets/116176170/32260ca8-2140-4dab-9b68-1efd74ccfaf1" width="500">
 <img src="./images/function/챌린지모드.png" >
@@ -87,12 +88,10 @@ MZ세대를 타겟으로 <b>짧은 쇼츠 영상</b>을 <b>AI 이미지 처리</
 <img src="https://github.com/GitHub-SJL/carrotmarket/assets/116176170/5c962721-c01e-476a-a3c1-f31550e1296b" width="500">
 <img src="./images/function/노래선택.png">
 <br/>
----------------------------------------
 
 #### 대시 보드
 <img src="https://github.com/GitHub-SJL/carrotmarket/assets/116176170/e538ea2c-d2fe-47ad-81b3-6ccc0c0aef53" width="500">
 <img src="./images/function/대시보드.png">
----------------------------------------
 
 #### 게임 모드 선택
 <br/>
