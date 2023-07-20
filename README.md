@@ -54,6 +54,7 @@ MZ세대를 타겟으로 <b>짧은 쇼츠 영상</b>을 <b>AI 이미지 처리</
 따라서 **누구나 쉽게 사용**할수 있고, **AI가 실시간**으로 춤을 추면서 <br/>
 **영상속 춤과 맞는지** **피드백**을 해줄수 있는 **웹 서비스**가 필요합니다.
 
+
 <br/>
 
 ### 와이어프레임 및 디자인
@@ -63,27 +64,45 @@ MZ세대를 타겟으로 <b>짧은 쇼츠 영상</b>을 <b>AI 이미지 처리</
 <br/>
 
 ## 📝 DancerFlow 주요 서비스
-
+<a href="https://drive.google.com/file/d/1L867LAbKjUt-0pVEmC9I3hGoqc3Fi_nL/view?usp=sharing">
+시연연상
+</a>
 ### 메인 기능
-
+<img src="https://github.com/GitHub-SJL/carrotmarket/assets/116176170/32260ca8-2140-4dab-9b68-1efd74ccfaf1" width="500">
 <img src="./images/function/챌린지모드.png" >
   <br/>
 <img src="./images/function/연습모드.png">
   <br/>
+  <br/>
+
+---------------------------------------
+
 
 ### 서브 기능
 
 <img src="./images/function/서브기능.png">
 <br/>
+
+#### 노래 선택 및 정보
+<img src="https://github.com/GitHub-SJL/carrotmarket/assets/116176170/5c962721-c01e-476a-a3c1-f31550e1296b" width="500">
 <img src="./images/function/노래선택.png">
-  <br/>
 <br/>
+---------------------------------------
+
+#### 대시 보드
+<img src="https://github.com/GitHub-SJL/carrotmarket/assets/116176170/e538ea2c-d2fe-47ad-81b3-6ccc0c0aef53" width="500">
 <img src="./images/function/대시보드.png">
-  <br/>
+---------------------------------------
+
+#### 게임 모드 선택
 <br/>
+<img src="https://github.com/GitHub-SJL/carrotmarket/assets/116176170/149fabe4-49a6-4df5-ade1-f564c7ee9569" width="500">
 <img src="./images/function/서브기능1.png">
-  <br/>
-  <br/>
+<br/>
+<br/>
+
+---------------------------------------
+
 
 ## ⚒️ 기술 스택
 
